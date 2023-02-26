@@ -1,6 +1,6 @@
 # MADHack Agon
 
-<img src="https://raw.githubusercontent.com/MADHack-Agon/.github/main/img/Madhacklogo.png" align="right"
+<img src="https://raw.githubusercontent.com/MADHack-Agon/.github/main/img/Madhacklogo.svg" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="250">
 
 MADHack is a mobile app development hackathon and workshop series organized by the IEEE Student Branch of UCSC. It gives university students in Sri Lanka the chance to participate in a mobile app development competition, allowing them to sharpen
